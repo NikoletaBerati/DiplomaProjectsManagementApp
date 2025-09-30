@@ -50,7 +50,7 @@ Professors can:
 
 ### How to run
   Clone the repository  
-  Open project on Eclipse
-  Set up the database (application.properties file)
-  Build and run the application
-  Open in browser: http://localhost:8080
+  Open project on Eclipse 
+  Set up the database (application.properties file) 
+  Build and run the application 
+  Open in browser: http://localhost:8080 
